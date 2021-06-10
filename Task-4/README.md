@@ -22,5 +22,6 @@ In this we are grouping the Model as two parts the Encoder and the rest of the m
 
 Comparing results before and after Differential learning
 ---
+From the graph it seems model with Differential learning performs good at starting of the training but both converges at long run.
 
 ![image](plot1.png)
