@@ -2,6 +2,9 @@ Overview
 =======
 We have to do Semantic Segmentation for the Cityscape dataset and for that we are using U-net Architecture with Resnet-18 as the Encoder part. In this we are implementing Differential learning rate for the model by grouping it into different parts.
 
+Link for [Colab Notebook](https://colab.research.google.com/drive/1s3ugadqDY_iwGrM4aYb0Icnnr5-9JKoB?usp=sharing) and
+Link for the [CityScape Dataset](https://drive.google.com/drive/folders/1h1sD-5crxV4KK36wYgrDyM08CRTzHR5p?usp=sharing) used.
+
 ---
 Preprocessing Data
 ---
